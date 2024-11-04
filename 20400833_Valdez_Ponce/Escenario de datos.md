@@ -1,4 +1,4 @@
-link de la imagen:docker pull javp013/lab_neo4j:latest
+link de la imagen: docker pull javp013/lab_neo4j:latest
 para levantar en contenedor : docker run -d --name rutas-api -p 3000:3000 node-rutas   
 
 
